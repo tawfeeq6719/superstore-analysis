@@ -1,0 +1,18 @@
+The agenda of the project is to perform a comprehensive analysis of the Super Store's sales and profits. 
+The project includes the following steps:
+
+1.)Data loading and exploration: Load the dataset and explore its structure.
+
+2.)Data cleaning: Handle missing values and drop unnecessary columns (e.g., 'Postal Code').
+
+3.)Descriptive statistics: Calculate summary statistics for the dataset.
+
+4.)Identify loss-making segments and products: Isolate data where profits are negative ('loss_df').
+
+5.)Total loss calculation: Calculate the total loss incurred by the Super Store.
+
+6.)Group-wise analysis: Analyze loss-making segments, sub-categories, cities, and categories.
+
+7.)Visualizations: Create informative visualizations to understand sales, discounts, and segments.
+
+8.)Correlation analysis: Calculate the correlation between numeric columns and visualize it using a heatmap
